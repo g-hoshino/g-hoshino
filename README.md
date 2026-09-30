@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**g-hoshino/g-hoshino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on computational condensed matter physics, combining first-principles calculations, theoretical models, and scientific software development.
 
-Here are some ideas to get you started:
+## 🔬 Research interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Topological materials:** studying how crystal symmetry and electronic structure relate to topology.
+- **Wannier charge centers and boundary states:** exploring how electronic charge distributions connect to surface and edge states.
+- **Electron–phonon coupling:** building computational workflows and databases for superconducting materials research.
+
+## 💻 What I build
+
+- Python tools for Wilson loop calculations and symmetry-resolved analysis.
+- Automated workflows for generating calculation inputs, running simulations, and processing results.
+- Tools for organizing and searching materials calculation data.
+
+## 🛠️ Tools I use
+
+- **Programming:** Python, Bash
+- **Environment:** Linux, Git, conda
+- **Scientific software:** Quantum ESPRESSO, VASP, Wannier90
+
+I enjoy turning research questions into reusable computational tools, with an emphasis on readable code and reproducible workflows.
